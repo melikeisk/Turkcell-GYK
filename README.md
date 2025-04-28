@@ -24,3 +24,6 @@ Bu repo, Turkcell tarafından düzenlenen **Geleceği Yazan Kadınlar - Yapay Ze
 - ⚙️ `RunningApis` – API çalışmaları
 - 📓 `Collections_HomeWork1.ipynb`  
 - 📘 `Collections_Workshop1.ipynb`
+
+### 🧠 DeepLearning
+🔥 DeepLearning – Yapay sinir ağları, TensorFlow ve Keras ile derin öğrenme çalışmaları
