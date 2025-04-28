@@ -1,4 +1,4 @@
-## 📂 TURKCELL GELECEĞİ YAZAN KADINLAR - YAPAY ZEKA Programı Çalışmaları
+## 📂 TURKCELL GELECEĞİ YAZAN KADINLAR - Yapay Zeka Programı Çalışmaları
 
 Bu repo, Turkcell tarafından düzenlenen **Geleceği Yazan Kadınlar - Yapay Zeka** programı süresince öğrendiğim ve uyguladığım yapay zeka projelerini, veri analizi çalışmalarını ve diğer ilgili materyalleri içermektir. Amacım, öğrendiklerimi paylaşmak ve bu alanda daha fazla bilgi edinmektir.
 
